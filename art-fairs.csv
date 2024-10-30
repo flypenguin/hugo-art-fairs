@@ -1,0 +1,70 @@
+start date ;end date   ;country              ;city               ;url                                          ;location link ;title
+2025-01-17 ;2025-01-19 ;Singapore            ;Singapore          ;https://artsg.com                            ;loclink       ;Art SG
+2025-01-22 ;2025-01-26 ;UK                   ;London             ;https://londonartfair.co.uk                  ;loclink       ;London Art Fair
+2025-01-24 ;2025-01-26 ;France               ;Paris              ;https://www.art3f.com                        ;loclink       ;art3f Paris
+2025-01-26 ;2025-02-02 ;Belgium              ;Brussels           ;https://www.brafa.art                        ;loclink       ;BRAFA art fair
+2025-01-30 ;2025-02-02 ;Marrocco             ;Marrackech         ;https://www.1-54.com/marrakech/              ;loclink       ;1-54 Marrackech
+2025-01-30 ;2025-02-02 ;Switzerland          ;Geneva             ;https://www.artgeneve.ch                     ;loclink       ;artgenève
+2025-01-31 ;2025-02-02 ;Denmark              ;Herning            ;https://www.artherning.dk/                   ;loclink       ;Art Herning
+2025-01-31 ;2025-02-02 ;Italy                ;Bologna            ;https://www.artefiera.it                     ;loclink       ;Arte Fiera
+2025-02-05 ;2025-02-09 ;Belgium              ;Brussels           ;https://affordableartfair.com/fairs/brussels ;loclink       ;The Affordable Art Fair Brussels
+2025-02-05 ;2025-02-09 ;Mexico               ;Mexico City        ;https://zsonamaco.com                        ;loclink       ;ZONAMACO México Arte Contemporáneo
+2025-02-06 ;2025-02-09 ;India                ;New Delhi          ;https://indiaartfair.in                      ;loclink       ;India Art Fair
+2025-02-07 ;2025-02-09 ;France               ;Aussonne           ;https://www.art3f.com                        ;loclink       ;art3f Toulouse
+2025-02-19 ;2025-02-23 ;United States        ;Los Angeles        ;https://www.laartshow.com                    ;loclink       ;LA ART SHOW
+2025-02-20 ;2025-02-23 ;Germany              ;Karlsruhe          ;https://www.art-karlsruhe.de                 ;loclink       ;art KARLSRUHE
+2025-02-20 ;2025-02-23 ;Turkey               ;Ankara             ;https://www.artfairankara.com                ;loclink       ;ARTANKARA
+2025-02-20 ;2025-02-23 ;Australia            ;Melbourne          ;https://melbourneartfair.com.au              ;loclink       ;Melbourne Art Fair
+2025-02-21 ;2025-02-23 ;South Africa         ;Kapstadt           ;https://www.investeccapetownartfair.co.za    ;loclink       ;Investec Cape Town Art Fair
+2025-02-28 ;2025-03-02 ;France               ;Strasbourg         ;https://www.art3f.com                        ;loclink       ;art3f Strasbourg
+2025-03-06 ;2025-03-09 ;Spain                ;Madrid             ;https://www.justmad.es                       ;loclink       ;JustMad
+2025-03-06 ;2025-03-16 ;Austria              ;Wien               ;https://www.wikam.at                         ;loclink       ;WIKAM
+2025-03-07 ;2025-03-09 ;France               ;Nantes             ;https://www.art3f.com                        ;loclink       ;art3f Nantes
+2025-03-13 ;2025-03-16 ;France               ;Lille              ;https://www.lilleartup.com                   ;loclink       ;Lille Art Up!
+2025-03-14 ;2025-03-16 ;Germany              ;Osnabrück          ;https://arte-kunstmesse.de/osnabrueck/       ;loclink       ;ARTe Osnabrück
+2025-03-15 ;2025-03-20 ;Netherlands          ;Maastricht         ;https://www.tefaf.com/fairs/tefaf-maastricht ;loclink       ;TEFAF Maastricht
+2025-03-20 ;2025-03-23 ;Germany              ;Bregenz            ;https://stage-bregenz.art/de/                ;loclink       ;STAGE Bregenz
+2025-03-21 ;2025-03-23 ;France               ;Chassieu           ;https://www.art3f.com                        ;loclink       ;art3f Lyon
+2025-03-21 ;2025-03-23 ;Germany              ;Essen              ;https://contemporaryartruhr.de               ;loclink       ;contemporary art ruhr (C.A.R.), PHOTO/MEDIA ART FAIR
+2025-03-21 ;2025-03-23 ;Italy                ;Cremona            ;https://www.cremonaartfair.com/              ;loclink       ;Cremona Art Fair
+2025-03-21 ;2025-03-23 ;Austria              ;Wien               ;https://spark-artfair.com                    ;loclink       ;SPARK Art Fair Vienna
+2025-03-26 ;2025-03-30 ;Hong Kong            ;Hong Kong          ;https://artcentralhongkong.com               ;loclink       ;Art Central Hong Kong
+2025-03-27 ;2025-03-30 ;Luxembourg           ;Luxembourg         ;https://luxembourgartfair.com                ;loclink       ;Luxembourg Art Fair
+2025-03-28 ;2025-03-30 ;Netherlands          ;Rotterdam          ;https://www.artrotterdam.com                 ;loclink       ;ART Rotterdam
+2025-03-28 ;2025-03-30 ;Hong Kong            ;Hong Kong          ;https://www.artbasel.com/hong-kong           ;loclink       ;Art Basel Hong Kong
+2025-04-02 ;2025-04-06 ;United States        ;Dallas             ;https://dallasartfair.com                    ;loclink       ;Dallas Art Fair
+2025-04-02 ;2025-04-06 ;France               ;Paris              ;https://pad-fairs.com/paris                  ;loclink       ;PAD Paris
+2025-04-02 ;2025-04-06 ;Brazil               ;Sao Paolo          ;https://www.sp-arte.com                      ;loclink       ;SP Arte
+2025-04-03 ;2025-04-06 ;Frane                ;Paris              ;https://www.artparis.com                     ;loclink       ;Art Paris
+2025-04-03 ;2025-04-06 ;United States        ;New York           ;https://artexponewyork.com                   ;loclink       ;Artexpo New York
+2025-04-03 ;2025-04-06 ;Germany              ;Cologne            ;https://discoveryartfair.com/cologne         ;loclink       ;Discovery Art Fair Cologne
+2025-04-04 ;2025-04-06 ;Italy                ;Novegro-Tregarezzo ;https://www.art3f.com                        ;loclink       ;art3f Milan
+2025-04-04 ;2025-04-06 ;Italy                ;Milano             ;https://miart.it                             ;loclink       ;miart
+2025-04-11 ;2025-04-13 ;Germany              ;Düsseldorf         ;https://art-dus.de                           ;loclink       ;ART DÜSSELDORF
+2025-04-11 ;2025-04-13 ;Spain                ;Barcelona          ;https://www.art3f.com                        ;loclink       ;art3f Barcelone
+2025-04-17 ;2025-04-20 ;United States        ;San Francisco      ;https://www.artmarketsf.com                  ;loclink       ;Art Market San Francisco
+2025-04-17 ;2025-04-20 ;United Arab Emirates ;Dubai              ;https://www.worldartdubai.com                ;loclink       ;World Art Dubai
+2025-04-18 ;2025-04-20 ;United Arab Emirates ;Dubai              ;https://www.artdubai.ae                      ;loclink       ;Art Dubai
+2025-04-20 ;2025-04-23 ;Italy                ;Milano             ;https://www.miafair.it                       ;loclink       ;MIA Milan Image Art Fair
+2025-04-23 ;2025-04-27 ;United States        ;New York           ;https://aipad.com                            ;loclink       ;AIPAD Photography Show
+2025-04-24 ;2025-04-27 ;Belgium              ;Brussels           ;https://www.artbrussels.com                  ;loclink       ;Art Brussels
+2025-04-24 ;2025-04-27 ;Canada               ;Vancouver          ;https://www.artvancouver.net                 ;loclink       ;Art Vancouver
+2025-04-24 ;2025-04-27 ;United States        ;Chicago            ;https://www.expochicago.com                  ;loclink       ;Expo Chicago
+2025-04-25 ;2025-04-27 ;France               ;Reims              ;https://www.art3f.com                        ;loclink       ;art3f Reims
+2025-05-08 ;2025-05-11 ;Austria              ;Wien               ;https://www.art-austria.info                 ;loclink       ;Art Austria
+2025-05-08 ;2025-05-11 ;UK                   ;London             ;https://affordableartfair.com/london         ;loclink       ;The Affordable Art Fair London (Hampstead)
+2025-05-09 ;2025-05-13 ;United States        ;New York           ;https://www.tefaf.com/fairs/tefaf-new-york   ;loclink       ;TEFAF New York
+2025-05-16 ;2025-05-18 ;Belgium              ;Kortrijk           ;https://www.art3f.com                        ;loclink       ;art3f Courtrai
+2025-05-16 ;2025-05-18 ;Germany              ;Stuttgart          ;https://arte-kunstmesse.de/stuttgart/        ;loclink       ;ARTe Stuttgart
+2025-05-22 ;2025-05-25 ;Austria              ;Wien               ;https://affordableartfair.com/fairs/vienna   ;loclink       ;The Affordable Art Fair Vienna
+2025-05-23 ;2025-05-25 ;Switzerland          ;Zurich             ;https://art-zurich.com                       ;loclink       ;ART INTERNATIONAL ZURICH
+2025-05-23 ;2025-05-25 ;Germany              ;Dortmund           ;https://www.art3f.com                        ;loclink       ;art3f Dortmund
+2025-06-13 ;2025-06-15 ;Germany              ;Berlin             ;https://affordableartfair.com/fairs/berlin   ;loclink       ;The Affordable Art Fair Berlin
+2025-06-16 ;2025-06-22 ;Switzerland          ;Basel              ;https://www.liste.ch                         ;loclink       ;LISTE
+2025-06-17 ;2025-06-22 ;Switzerland          ;Basel              ;https://www.photo-basel.com                  ;loclink       ;photo basel
+2025-06-19 ;2025-06-22 ;Switzerland          ;Basel              ;https://www.artbasel.com/basel               ;loclink       ;Art Basel
+2025-07-18 ;2025-07-20 ;Germany              ;Konstanz           ;https://arte-kunstmesse.de/konstanz/         ;loclink       ;ARTe Konstanz
+2025-08-09 ;2025-08-17 ;Belgium              ;Knokke             ;https://www.knaf.be/                         ;loclink       ;KNOKKE ART FAIR
+2025-08-28 ;2025-08-31 ;Denmark              ;Copenhagen         ;https://enterartfair.com                     ;loclink       ;Enter Art Fair
+2025-09-12 ;2025-09-14 ;Monaco               ;Monaco             ;https://www.art3f.com                        ;loclink       ;art3f Monaco
+2025-10-10 ;2025-10-12 ;France               ;La Roche-sur-Foron ;https://www.art3f.com                        ;loclink       ;art3f Haute-Savoi
